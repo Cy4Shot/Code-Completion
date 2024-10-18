@@ -1,0 +1,5 @@
+rich
+sacrebleu
+transformers
+nltk
+levenshtein
